@@ -9,6 +9,7 @@ The following codes were used for the experimental procedure for the paper: Iden
 chnage2variables - This was used for the supopulation analysis (Figure 2). Change the quantity of cells and mean or standard deviation for a heterogeneous mixture with two different 
 types of cells. The output will give an insight into the quantity, mean, standard deviation, and proportion found by the model. if these parameters match your input, then successful
 idenitification was achieved
+
 heatmapcreation - creates the heatmaps for Figure 2, using the outputs of the previous code (chnage2variables). 
 
 confusionmatrixcreaton2 - creates the confusion matrix (Figure 4). The numbers are gathered from the confusion marix output in WEKA.
